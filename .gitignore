@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv*/
+.env
+*.log
+# full audio is distributed via Releases
+data/audio/
+*.zip
